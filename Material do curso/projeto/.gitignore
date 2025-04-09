@@ -1,0 +1,5 @@
+# comentário do .gitignore
+# https://git-scm.com/docs/gitignore
+secrets.txt
+*.txt
+assets
