@@ -1,5 +1,6 @@
 <?php
 
 echo 'routes.php';
-echo 'teste';
+echo 'text';
 echo 'novo';
+echo 'bug corrigido';
